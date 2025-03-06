@@ -36,7 +36,7 @@ It looks like you are setting up a website for a Data Carpentry curriculum but y
 Space is limited and we anticipate high demand! Please apply for your spot by Thursday, February 29.
 
 <p class="text-center">
-  <a href="https://forms.office.com/pages/responsepage.aspx?id=nZRNbBy5RUyarmbXZEMRDRIPDyJcUtJGriDLxh8VldJUQUtLVEJCUVdWTTNSSVlUM1ZKUjVMWVY4WSQlQCN0PWcu">
+  <a href="https://upenn-gsc.libcal.com/event/13933003">
     <button type="button" class="btn btn-info">Register</button>
   </a>
 </p>
