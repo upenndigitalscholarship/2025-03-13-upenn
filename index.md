@@ -31,16 +31,6 @@ It looks like you are setting up a website for a Data Carpentry curriculum but y
 {% endunless %}
 {% endif %}
 
-<h2 id="general">Registration</h2>
-
-Space is limited and we anticipate high demand! Please apply for your spot by Thursday, February 29.
-
-<p class="text-center">
-  <a href="https://upenn-gsc.libcal.com/event/13933003">
-    <button type="button" class="btn btn-info">Register</button>
-  </a>
-</p>
-
 <h2 id="general">General Information</h2>
 
 {% comment %}
